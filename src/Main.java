@@ -30,6 +30,9 @@ public class Main {
 
         String str = "Ala ma kota";
         boolean isTrue = false;
-        System.out.printf("Tekst to: %S - to jest: %b", str, isTrue);
+        System.out.printf("Tekst to: %S - to jest: %b\n", str, isTrue);
+        System.out.printf("Tekst to: %d - to jest: %b\n", a, b);
+
+
     }
 }
