@@ -27,5 +27,9 @@ public class Main {
 
         System.out.println("Wynik mnożenia " + number1 + "i liczby"
         + number2 + "to:" + result);
+
+        String str = "Ala ma kota";
+        boolean isTrue = false;
+        System.out.printf("Tekst to: %S - to jest: %b", str, isTrue);
     }
 }
